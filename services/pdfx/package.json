@@ -17,8 +17,7 @@
     "@sparticuz/chromium": "119.0.2",
     "puppeteer-core": "21.6.1",
     "vue": "^2.7.14",
-    "liberation": "latest",
-    "dejavu": "latest"
+    "fontawesome-free": "latest"
   },
   "devDependencies": {
     "@vercel/node": "^3.0.25",
